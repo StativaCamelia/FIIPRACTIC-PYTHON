@@ -1,0 +1,8 @@
+{
+  "user" : "Name1",
+  "school" : "School1",
+"friends" : {
+"name": "Name2",
+  "courses" : ["Math", "Biology"]
+}
+}
